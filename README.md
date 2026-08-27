@@ -13,7 +13,7 @@
 
 - [x] Graduate with an A.S. in Computer Science
 - [x] Transfer to a 4-year university
-- [ ] Land a CS-related internship
+- [x] Land a CS-related internship
 - [ ] Become a stronger, more well-rounded programmer
 - [ ] Build practical experience using AI as a development tool
 
