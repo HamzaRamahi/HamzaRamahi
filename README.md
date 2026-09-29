@@ -15,7 +15,7 @@
 - [x] Transfer to a 4-year university
 - [x] Land a CS-related internship
 - [ ] Become a stronger, more well-rounded programmer
-- [ ] Build practical experience using AI as a development tool
+- [x] Build practical experience using AI as a development tool
 
 ---
 
